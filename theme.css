@@ -1,0 +1,23 @@
+a{
+        text-decoration: none;
+        color: black;
+        }
+body{
+        padding: 0px;
+        margin: 0px;
+        }
+
+.slideshow .slides{
+        width: 100%;
+        display: none;
+        }
+        
+.headbox{
+            padding-top: 20px;
+            text-align: center;
+            font-size: 50px; 
+            }
+            
+.resume-email{
+                    padding-left: 500px;
+                    }
